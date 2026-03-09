@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ブラフマン",
+  "base_artist": "煮ル果実",
+  "createdAt": "2026-03-09T09:25:10.465404Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブラフマン",
+      "artist": "煮ル果実",
+      "has_synced": false,
+      "path": "select/pl_01_ブラフマン_煮ル果実.txt"
+    }
+  ]
+}
