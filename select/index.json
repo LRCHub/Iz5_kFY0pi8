@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ブラフマン",
   "base_artist": "煮ル果実",
-  "createdAt": "2026-03-10T07:16:14.284673Z",
+  "createdAt": "2026-03-24T03:16:20.628365Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "煮ル果実",
       "has_synced": false,
       "path": "select/pl_01_ブラフマン_煮ル果実.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ブラフマン",
+      "artist": "煮ル果実",
+      "has_synced": false,
+      "path": "select/localdb_01_ブラフマン_煮ル果実.txt",
+      "repo_name": "Iz5_kFY0pi8"
     }
   ]
 }
